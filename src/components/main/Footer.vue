@@ -20,12 +20,6 @@
         </div>
 
         <div class="headFoot icons">
-          <a
-            href="https://www.instagram.com/centr_zdorovya26/"      
-            target="_blank"
-          >
-            <div class="icon1"></div>
-          </a>
           <a href="mailto:center.zdorovya@mail.ru" target="_blank">
             <div class="icon2"></div>
           </a>
@@ -81,13 +75,6 @@
   </div>
 </template>
 <style lang="scss" scoped>
-.icon1 {
-  margin: 0 10px 0 10px;
-  width: 50px;
-  height: 80px;
-  background-size: contain !important;
-  background: url("../../assets/img/instagram.png") center center no-repeat;
-}
 .icon2 {
   margin: 0 10px 0 10px;
   width: 50px;
